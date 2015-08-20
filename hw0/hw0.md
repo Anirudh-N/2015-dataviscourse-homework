@@ -1,1 +1,1 @@
-Well that was easy ! I guess that's why it was probably HW0.
+Well that was easy ! I guess that is why it is probably named HW0.

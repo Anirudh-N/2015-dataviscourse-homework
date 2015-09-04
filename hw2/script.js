@@ -3,6 +3,14 @@
 
 function staircase() {
     // ****** TODO: PART II ******
+    var x=document.getElementByID().children;
+    var scale=10;
+    var index;
+
+    for (index=1;index<= x.length;x++)
+    {
+        x[index].setAttribute("height",index*scale)
+    }
 }
 
 function update(error, data) {

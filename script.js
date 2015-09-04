@@ -8,7 +8,7 @@ function staircase() {
     var index;
 
     alert(x.length);
-    alert('Here');
+   
 
     for (index=1;index<= x.length;x++)
     {

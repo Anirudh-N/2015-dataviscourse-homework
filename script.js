@@ -7,6 +7,8 @@ function staircase() {
     var scale=10;
     var index;
 
+    alert(x.length);
+
     for (index=1;index<= x.length;x++)
     {
         x[index].setAttribute("height",index*scale)
